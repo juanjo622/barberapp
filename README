@@ -3,7 +3,7 @@
 
 ```bash
 # Clonar el repositorio
-git clone [url-del-repositorio]
+git clone https://github.com/juanjo622/barberapp.git
 cd barberapp
 
 # Instalar dependencias
