@@ -1,0 +1,13 @@
+
+## Instalación y Ejecución
+
+```bash
+# Clonar el repositorio
+git clone [url-del-repositorio]
+cd barberapp
+
+# Instalar dependencias
+npm install
+
+# Ejecutar en desarrollo
+npm run dev
